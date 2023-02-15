@@ -1,0 +1,12 @@
+nbox[serving]==0.11.5rc5
+fastapi
+numpy
+transformers
+datasets
+tiktoken
+wandb
+tqdm
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/nightly/cu117
